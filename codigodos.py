@@ -14,4 +14,4 @@ def rest(a,b):
     c=a-b
     print c
 
-suma(3,5)
+suma(7,8)
