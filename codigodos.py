@@ -1,17 +1,17 @@
 def suma(a,b):
     c=a+b
-    print c
+    print(c)
 
 def mult(a,b):
     c=a*b
-    print c
+    print(c)
 
 def div(a,b):
     c=a/b
-    print c
+    print(c)
 
 def rest(a,b):
     c=a-b
-    print c
+    print(c)
 
 suma(7,8)
