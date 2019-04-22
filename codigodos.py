@@ -4,8 +4,7 @@ def suma(a,b):
 
 def mult(a,b):
     c=a*b
-    d=1
-    print(d)
+    print(c)
 
 def div(a,b):
     c=a/b
@@ -15,4 +14,4 @@ def rest(a,b):
     c=a-b
     print(c)
 
-mult(7,8)
+suma(7,8)
