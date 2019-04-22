@@ -1,17 +1,19 @@
 def suma(a,b):
     c=a+b
-    print(c)
+    print("Su resultado es:",c)
 
 def mult(a,b):
     w=1
     print(c)
+    c=a*b
+    print("Su resultado es:", c)
 
 def div(a,b):
     c=a/b
-    print(c)
+    print("Su resultado es:",c)
 
 def rest(a,b):
     c=a-b
-    print(c)
+    print("Su resultado es:",c)
 
-rest(7,8)
+suma(7,8)
